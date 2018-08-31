@@ -1,6 +1,6 @@
 # Bienvenue dans l'espace formations et ateliers
 
-Ici c'est aussi à vous et chez vous. Vous trouverez où, comment, pourquoi, sous quelles conditions vous inscrire aux différentes sessions. jbmvvlv
+Ici c'est aussi à vous et chez vous. Vous trouverez où, comment, pourquoi, sous quelles conditions vous inscrire aux différentes sessions. 
 
 Vous trouverez des resssources documentées par les apprenant⋅e⋅s des formations et ateliers précendents.
 
