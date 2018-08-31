@@ -6,7 +6,7 @@ url: "https://xavcc.github.io/formations/" # the base hostname & protocol for yo
 
 show_downloads: true
 comments: true
-logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+logo_url:  formations/assets/images/logo-formations.png
 git_branch: master
 theme: 
 use_github_wiki: false
