@@ -6,7 +6,7 @@ url: "https://xavcc.github.io/formations/" # the base hostname & protocol for yo
 
 show_downloads: true
 comments: true
-logo_url:  formations/assets/images/logo-formations.png
+logo_url:  /formations/assets/images/logo-formations.png
 git_branch: master
 theme: 
 use_github_wiki: false
