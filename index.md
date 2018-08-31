@@ -6,11 +6,11 @@ Vous trouverez des resssources documentées par les apprenant⋅e⋅s des format
 
 Vous pouvez à tout moment télécharger, modifier, réutiliser, partager, toutes les ressources ici précentes en respectant les licences libres attribuées.
 
-# Liste des foramtions et ateliers
+# Liste des formations et ateliers
 
-## À venir et inscriptions
++ À venir et inscriptions
 
-## Passés et documentations
++ Passés et documentations
 
 # Ressources documentées
 
