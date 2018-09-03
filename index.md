@@ -37,7 +37,7 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
     + [Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu](https://xavcc.github.io/geek-bretagne/)
     + [(Ré)éveiller la curiosité des élèves du numérique et travailler l'éthique](https://xavcc.github.io/rennes-design)
     + [IndieCamp Kerbors: Atelier Geek - Session #2](https://xavcc.github.io/kerbors_geek)
-    + [Démystifier l'écran noir, le terminal, le git... Apprendre github en douceur | 10 ressources](https://xavcc.github.io/github/)
+    + [Démystifier l'écran noir, le terminal, le git... Apprendre github en douceur : 10 ressources](https://xavcc.github.io/github/)
   + Biomiémtisme
     + [Workshop Biomimétisme à l'Université des Technologies de Compiègne](https://xavcc.github.io/biomimicry-utc/)
     + [Journée biomimétisme Ecole des Métiers de l'Environnement Rennes](https://xavcc.github.io/biomimicry-rennes)
