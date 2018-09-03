@@ -10,9 +10,9 @@
 
 ## Se former en pratiquant.
 
-Explorer, tester, experimenter, apprendre, documenter, partager la configuration et les pratiques Tiers-Lieux.
+Explorer, tester, expérimenter, apprendre, documenter, partager la configuration et les pratiques Tiers-Lieux.
 
-Pendant 1/2 journée à Rennes au format court atelier pratique (45 minutes) puis petite marche pour rejoindre un autre lieu qui servira de debreif et de retour d'expérience. Autre atelier pratique dans ce nouveau lieu et ainsi de suite.
+Pendant 1/2 journée à Rennes au format contenant plusiuers courts ateliers de pratique (45 minutes) puis petite marche pour rejoindre un autre lieu qui servira de debreif et de retour d'expérience. Autre atelier pratique dans ce nouveau lieu et ainsi de suite.
 
 Envisager, prévoir, prévenir et traiter les enjeux critiques dans et autour des Tiers-Lieux.
 
@@ -25,13 +25,13 @@ Voici un exemple de ressources documentées sous licence libre pour introduire l
 Soit :
 
 + En modifiant ce page via github pour y inscrire votre prénom et nom ou pseudonyme, en ajoutant votre date de présence.
-Si cela vous smeble difficile, nous verrons pourquoi et comment cous l'apprendre en 20 minutes lors de cette rencontre.
+Si cela vous semble difficile, nous verrons pourquoi et comment vous l'apprendre en 20 minutes lors de cette rencontre de septembre.
 
 + Par courriel : xcoadic[CHEZ]protonmail[POINT]com.
 
 ## Ce que nous allons faire ensemble
 
-À la mainière comparable d'une [walkingdev](http://walkingdev.fr), nous travaillerons de façon itérative entre petite marche de breiffing / débreiffing et ateliers (environ 45 minutes) de pratiques collaboratives dans des espaces inspirants. ceci répété plusieurs fois jusquà 17h30.
+À la maiière comparable d'une [walkingdev](http://walkingdev.fr), nous travaillerons de façon itérative entre petite marche de  briefing / débreifing et ateliers (environ 45 minutes) de pratiques collaboratives dans des espaces inspirants. ceci répété plusieurs fois jusquà 17h30.
 
 ### Les sujets abordés
 
@@ -39,7 +39,7 @@ Si cela vous smeble difficile, nous verrons pourquoi et comment cous l'apprendre
 + Regard sur certains des enjeux abordés dans cette configuration
 + Qu'est ce que la criticité ?
 + Pourquoi, où et comment des enjeux critiques sont abordés dans la configuration tiers-lieu
-+ Quel enjeux critiques connaissez-vous, ou lesquels avez-vous déjà abordé/confronté ?
++ Quel enjeux critiques connaissez-vous, ou lesquels avez-vous déjà abordés/confrontés ?
 + Comment aborder cela comme un commun. 
 + Comment réutiliser, ou refaire de façon adaptée ou faire pas soi-même et/ ou ensemble des processus et pratiques similaires ?
 + Concevoir, éditer, partager collaborativement une documentation.
