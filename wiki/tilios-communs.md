@@ -18,6 +18,8 @@ Envisager, prévoir, prévenir et traiter les enjeux critiques dans et autour de
 
 Voici un exemple de ressources documentées sous licence libre pour introduire le concept d'enjeux critiques lié au tiers-lieux : <http://movilab.org/index.php?title=Enjeux_critiques_et_Communs>
 
+![](/assets/images/til_1_original.jpg)
+
 ## S'inscrire
 
 Soit :
