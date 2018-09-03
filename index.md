@@ -48,6 +48,18 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
 
 Toute personne qui le souhaite qui a pris connaissance des contextes et conditions si avant ainsi que celles inhérentesà chaque formation ou atelier proposé⋅e (notamment tarif et matériel nécessaire) ; personne majeure, sans pré-requi de diplômes, d'expériences.
 
+## Quel prix pour participer
+
+Les prix sont évalués en fonction du coût intial lié au temps de prépration et de réalisation pour chaque formation ou atelier. Ils prennent en compte également le besoin d'accessibilité, autant que faire se peut, d'un large public. Enfin, si chaque formation ou atelier peut voir proposer un ou plusieurs tarifs différents cela est lié à une volonté conjointe de sur-mesure et de remise en cause permanente.
+
+## Formation certifiante ou validante ?
+
+Ce qui fera preuve de vos pratiques, de vos éxpérimentations, de vos savoir-être et savoir-faire acquis, sera la documentation sous licence libre produite collectivement. Une page wiki ou des fichiers dans un dossier informatique public démontrant ce qui a été fait, pourquoi et comment cela a été réalisé, est d'une force au moins, voir peut-être plus, équivalente à un tampon sur un document administratif.
+
+Dans le cas d'une intervention en milieu scolaire ou de formation professionelle c'est votre établissement de tutelle qui est en responsabilité de vous fournir une attestion ou autre document administratif.
+
+Dans le cadre de formations et ateliers odre de milieu scolaire ou formation professionnelle, la documenation dont vous serez co-autrice, co-auteur, sera votre preuve et passeport. 
+
 # Autres ressources documentées
 
 + [Biomprission 3d](http://wiki.breizh-entropy.org/wiki/Bioimprimante_3d)
