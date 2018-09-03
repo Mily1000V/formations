@@ -1,7 +1,12 @@
 # Tiers-Lieux, enjeux critiques et Communs
 
-+ 10 septembre 2018, rendez-vous 13h30 à l'entrée du Jardin en permaculture du Landry, face au 104 rue de la Poterie; [voir sur une carte en ligne](https://www.openstreetmap.org/search?query=jardin%20landry#map=18/48.09401/-1.64173)
-+ Fin de la séance : 17h30 centre ville de Rennes.
++ 10 septembre 2018, 
+   + rendez-vous 13h30 à l'entrée du Jardin en permaculture du Landry, face au 104 rue de la Poterie; [voir sur une carte en ligne](https://www.openstreetmap.org/search?query=jardin%20landry#map=18/48.09401/-1.64173)
+   + Fin de la séance : 17h30 centre ville de Rennes.
+  
++ 18 septembre 2018, 
+   + rendez-vous 13h30 à l'entrée du Jardin en permaculture du Landry, face au 104 rue de la Poterie; [voir sur une carte en ligne](https://www.openstreetmap.org/search?query=jardin%20landry#map=18/48.09401/-1.64173)
+   + Fin de la séance : 17h30 centre ville de Rennes.
 
 ## Se former en pratiquant.
 
@@ -17,10 +22,10 @@ Voici un exemple de ressources documentées sous licence libre pour introduire l
 
 Soit :
 
-+ En modifiant ce page via github pour y inscrire votre prénom et nom ou pseudonyme.
++ En modifiant ce page via github pour y inscrire votre prénom et nom ou pseudonyme, en ajoutant votre date de présence.
 Si cela vous smeble difficile, nous verrons pourquoi et comment cous l'apprendre en 20 minutes lors de cette rencontre.
 
-+ Par courriel : xcoadic[CHEZ]protonmail[POINT]com. 
++ Par courriel : xcoadic[CHEZ]protonmail[POINT]com.
 
 ## Ce que nous allons faire ensemble
 
@@ -51,7 +56,7 @@ Ces personnes ont déjà suivi une formation similaire
 + Managers qui souhaitent continuer à abaisser leurs postures pour augmenter la facilitation et réduire le contrôle.
 + Celles et Ceux qui savent que les "Projets" aux appelations "à la mode" sont parfois des coquilles vides.
 + Facilitatrices et facilitateurs qui veulent compléter leurs palettes.
-+ Anumatrices, animateurs de réseaux qui rament pour transformer les organisations.
++ Animatrices, animateurs de réseaux qui rament pour transformer les organisations.
 
 
 ## Que devez-vous préparer ?
@@ -65,7 +70,7 @@ Ces personnes ont déjà suivi une formation similaire
 
 10 places uniquement. Réservation fortement conseillée.
 
-**Prix : 200 € / participant⋅e**
+**Prix : 200 € / participant⋅e** par chèque ou espèce. Facture sur demande préalamble. 
 
 ## Règles de conduite
 
