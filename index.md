@@ -27,7 +27,8 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
 # Liste des formations et ateliers
 
 + À venir et inscriptions
-  + Tiers-Lieux,enjeux critiques et communs. Plusierus dates en septembre 2018.
+  + Septembre 2018 : [Tiers-Lieux,enjeux critiques et communs](/wiki/tilios-communs.html) - Plusieurs dates - 10/09 ; 18/09
+
 
 + Passées et documentations
   + Tiers-Lieu
