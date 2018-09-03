@@ -18,11 +18,11 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
   + [Tiers-Lieux : Hackerspace Design Patterns 2.0 en VF](https://xavcc.github.io/tilios-design/)
 
 + [La gouverance partagée et les pratiques collaboratives et contributives associées](https://xavcc.github.io/recherche-consensus)
-  + Interventions Biennale Internationle du Design de st Étienne 2016, les mutation du travail : <https://www.youtube.com/watch?v=VXSs6vBp0a8>
+  + Intervention lors de la Biennale Internationle du Design de st Étienne 2017, les mutation du travail : <https://www.youtube.com/watch?v=VXSs6vBp0a8>
 
 + [Le processus de biomimétisme et les pratiques associées](https://xavcc.github.io/tags/#biomim%C3%A9tisme)
 
-+ [Médiation, initiation, pratiques nuémriques](https://xavcc.github.io/tags/#num%C3%A9rique)
++ [Médiation numérique, initiation et pratiques numérriques](https://xavcc.github.io/tags/#num%C3%A9rique)
 
 # Liste des formations et ateliers
 
@@ -47,7 +47,7 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
 
 ## Qui peut venir ?
 
-Toute personne qui le souhaite qui a pris connaissance des contextes et conditions si avant ainsi que celles inhérentesà chaque formation ou atelier proposé⋅e (notamment tarif et matériel nécessaire) ; personne majeure, sans pré-requi de diplômes, d'expériences.
+Toute personne qui le souhaite qui a pris connaissance des contextes et conditions si avant ainsi que celles inhérentes à chaque formation ou atelier proposé⋅e (notamment tarif et matériel nécessaire) ; personne majeure, sans pré-requi de diplôme ni d'expérience.
 
 ## Quel prix pour participer
 
@@ -63,7 +63,7 @@ Dans le cadre de formations et ateliers odre de milieu scolaire ou formation pro
 
 # Autres ressources documentées
 
-+ [Biomprission 3d](http://wiki.breizh-entropy.org/wiki/Bioimprimante_3d)
++ [Biompréssion 3d](http://wiki.breizh-entropy.org/wiki/Bioimprimante_3d)
 + [Incubatuer Lowtech](http://wiki.breizh-entropy.org/wiki/Incubateur_lowtech)
 + [DIY Levures](http://wiki.breizh-entropy.org/wiki/Levures_DIY)
 + [Qui je suis et ce que je fais](https://xavcc.github.io/about)
