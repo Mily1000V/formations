@@ -18,7 +18,7 @@ Envisager, prévoir, prévenir et traiter les enjeux critiques dans et autour de
 
 Voici un exemple de ressources documentées sous licence libre pour introduire le concept d'enjeux critiques lié au tiers-lieux : <http://movilab.org/index.php?title=Enjeux_critiques_et_Communs>
 
-![](/assets/images/til_1_original.jpg)
+![](https://raw.githubusercontent.com/XavCC/formations/master/assets/images/til_1_original.jpg)
 
 ## S'inscrire
 
@@ -31,7 +31,7 @@ Si cela vous smeble difficile, nous verrons pourquoi et comment cous l'apprendre
 
 ## Ce que nous allons faire ensemble
 
-À la mainière comparable d'un [walkingdev](http://walkingdev.fr), nous travaillerons de façon itérative entre petite marche de breiffing / débreiffing et ateliers (environ 45 minutes) de pratiques collaboratives dans des espaces inspirants. ceci répété plusieurs fois jusquà 17h30.
+À la mainière comparable d'une [walkingdev](http://walkingdev.fr), nous travaillerons de façon itérative entre petite marche de breiffing / débreiffing et ateliers (environ 45 minutes) de pratiques collaboratives dans des espaces inspirants. ceci répété plusieurs fois jusquà 17h30.
 
 ### Les sujets abordés
 
