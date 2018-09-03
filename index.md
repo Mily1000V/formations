@@ -44,7 +44,7 @@ Quelles sont les propostions thématiques de formations et d'ateliers ?
     + [Hacking, biodesign, biomimétisme en bibliothèque et médiathèque](https://xavcc.github.io/bibliotheque/)
     + [Préparer une formation aux pratiques du biomimétisme](https://xavcc.github.io/biomimicry-method)
 
-### Qui peut venir ?
+## Qui peut venir ?
 
 Toute personne qui le souhaite qui a pris connaissance des contextes et conditions si avant ainsi que celles inhérentesà chaque formation ou atelier proposé⋅e (notamment tarif et matériel nécessaire) ; personne majeure, sans pré-requi de diplômes, d'expériences.
 
