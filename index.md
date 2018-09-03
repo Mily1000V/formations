@@ -55,7 +55,7 @@ Les prix sont évalués en fonction du coût intial lié au temps de prépration
 
 ## Formation certifiante ou validante ?
 
-Ce qui fera preuve de vos pratiques, de vos éxpérimentations, de vos savoir-être et savoir-faire acquis, sera la documentation sous licence libre produite collectivement. Une page wiki ou des fichiers dans un dossier informatique public démontrant ce qui a été fait, pourquoi et comment cela a été réalisé, est d'une force au moins, voir peut-être plus, équivalente à un tampon sur un document administratif.
+Ce qui fera preuve de vos pratiques, de vos expérimentations, de vos savoir-être et savoir-faire acquis, sera la documentation sous licence libre produite collectivement. Une page wiki ou des fichiers dans un dossier informatique public démontrant ce qui a été fait, pourquoi et comment cela a été réalisé, est d'une force au moins, voir peut-être plus, équivalente à un tampon sur un document administratif.
 
 Dans le cas d'une intervention en milieu scolaire ou de formation professionelle c'est votre établissement de tutelle qui est en responsabilité de vous fournir une attestion ou autre document administratif.
 
